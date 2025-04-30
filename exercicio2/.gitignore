@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Output de compilação do TypeScript
+dist/
+
+# Arquivos de testes
+coverage/
+
+# Arquivos temporários do sistema
+*.log
+*.tsbuildinfo
+
+# Configurações de ambiente
+.env
